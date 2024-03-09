@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid black;
+    margin: 30px;
+    padding: 5px;
+}
+
+.a {
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+    background-color: gold;
+}
+font {
+    color: purple;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 20px;
+}
+header{
+    background-color: red;
+}
+nav {
+    text-align: center;
+    margin: 45px 75px 80px 75px;
+}
+p {
+    background-color: white;
+}
+footer {
+    background-color: red;
+    padding: 10px;
+}
